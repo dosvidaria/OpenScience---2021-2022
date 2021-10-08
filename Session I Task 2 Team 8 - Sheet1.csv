@@ -1,0 +1,20 @@
+,,The CRIators,,,,,,,,,,,,,
+,,Discover Collectively Open Science Projects,,,,,,,,,,,,,
+,,"A major appeal of Open Science is the capacity to harness collective intelligence and face big scientific challenges, unmet when researchers are working in isolation. Below is a list of such projects. Work your way through the list (up to you if you wish to divide and conquer, work in couples or as a group) to discover the projects. Apply your score (1-5 low-to-high score), using 10 of the Vienna Open Science Principles (Do read here: https://viennaprinciples.org/) to rank the projects’ ‘openness’. Add a few comments on what you appreciated and what you think could be improved in these projects.",,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,Project,Premise of the project in one simple phrase!,Accessibility,Discoverability,Publication,Reusability,Reproducibility,Transparency,Understandability,Collaboration,Evaluation,Public Good,Total score,positive remarks,Improvement remarks
+,Human Brain Project,"Research to help advance neuroscience, computing and brain inspired technologies",5,4,5,5,4,5,5,5,4,5,47,"- Focuses on interesting research on the human brain, the complexities and to understand complexities on cognition, human brain intelligence. The project has very interesting Collaborative workshops and conferences, training events, coding and hackethon events","- some prior knowledge of human brain biology, programming can be required to understand research projects"
+,Event Horizon Telescope,The Event Horizon Telescope is an international collaboration capturing images of black holes using a virtual Earth-sized telescope.,5,5,5,5,4,5,5,5,5,4,48,"- there is a large section of publication for astronomers
+- greatly built collaboration with the web of universities
+- process and objectives are well-described","-might be hard to understand for the people from outside the field
+- search engine
+- press & media page could be built in a better way "
+,Science Feedback,A resource to differentiate fake and trustworthy articles in science-based media coverage,5,4,5,5,1,4,5,5,4,5,43,"- division by topics 
+- great transparency, the reviewers come from the different institutions, one article often has 3 and more reviewers
+- understandable for the people outside the field","- no search engine to search for the articles posted on the general platform (works just on sybplatforms)
+- IT, social sciences, etc. could be added"
+,Open Worm,"OpenWorm aims to build the first comprehensive computational model of the Caenorhabditis elegans (C. elegans), a microscopic roundworm.",5,5,5,5,5,5,5,5,5,5,50,"- step toward fully understanding complex systems like the human brain; - you can acces code, progresse, calendar.. ; you can acces model and data",
+,Safecast,Safecast is currently building out a network of sensors to monitor particulate matter in sizes. Safecast maintains the largest open dataset of background radiation measurements ever collected.,5,3,5,3,3,3,4,5,4,5,40,"-workshops; - reports; Since 2011, Safecast has collected and published 170,480,896 environmental measurements into the public domain; All data collected by Safecast is released under a CC0 public domain designation. Anyone is free to use it for free with no licensing restrictions.","- whose goal is to create useful, accessible, and granular environmental data, however it is difficult to reproduce the experiemets for data collection "
+,SenseBox,"Digital Tools made of IOT technolgies and data collection to adress solution to challenges : education,Environment",4 - Campaign of Communication needed,4,5,4,4,4,4,5,5,5,44,Update still going on. It may require assistance for Maintenance. Look a bit complicated for a use from non-Tech,A visual Interaction with the tool for non tech People. Availability of electronic parts in case of damage or updates. 
+,Kiron ,Featurist Project - Growing,5,4,5,4,4,4,4,4,4,4,42,"Free online Courses similar to french OPENCLASSROOMS. Free contents, Certification available, partners",Adding a scholarship support. Adding Internship or first experience with a company after training. 
